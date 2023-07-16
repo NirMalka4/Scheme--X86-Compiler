@@ -1,9 +1,3 @@
-(* pc.ml
- * The new implementation of the parsing-combinators package for ocaml
- *
- * Prorammer: Mayer Goldberg, 2021
- *)
-
 (* general list-processing procedures *)
 
 let string_to_list string =
