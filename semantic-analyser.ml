@@ -1,8 +1,3 @@
-(* semantic-analyser.ml
- * The semantic analysis phase of the compiler
- *
- * Programmer: Mayer Goldberg, 2021
- *)
 #use "tag-parser.ml";;
 
 
